@@ -1,4 +1,4 @@
-<img width="640" height="391" alt="image" src="https://github.com/user-attachments/assets/06eac718-b687-4c60-9025-0f17b234a2c8" /># test-project
+# test-project
 git practice project
 
 _ _ _
@@ -48,6 +48,7 @@ System.out.println("hello,world") }
 
 ###이미지 넣는 법
 - ![고양이이미지](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fko%2Fsearch%3Fq%3D%25EB%25AC%25B4%25EB%25A3%258C%2B%25EA%25B3%25A0%25EC%2596%2591%25EC%259D%25B4&psig=AOvVaw14eLMF8qzSi73jdwx9Utg0&ust=1758850155980000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJC4p83i8o8DFQAAAAAdAAAAABAZ).
+- <img width="640" height="391" alt="image" src="https://github.com/user-attachments/assets/06eac718-b687-4c60-9025-0f17b234a2c8" />
 
 ### 표 만들기
 | 헤더1 | 헤더2 | 헤더3 |
